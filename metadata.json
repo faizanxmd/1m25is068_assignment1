@@ -1,0 +1,6 @@
+{
+  "name": "Research Paper Agent",
+  "description": "AI-powered academic research planner and brief generator that turns research questions into structured literature outlines, methodologies, search queries, and draft abstracts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
